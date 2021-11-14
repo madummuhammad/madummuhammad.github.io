@@ -28,8 +28,6 @@
   border-color: #1e2530; 
 }
 
-.d-flex{
-  display: flex;
+.mb-2{
+  margin-bottom: 20px !important;
 }
-
-
