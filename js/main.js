@@ -1,14 +1,14 @@
 (function($) {
 	"use strict";
 
-	$(".history-scroller").niceScroll({
-		cursorwidth: "10px",
-		background: "#0d1015",
-		cursorborder: "0",
-		cursorborderradius: "0",
-		autohidemode: false,
-		zindex: 5
-	});
+	// $(".history-scroller").niceScroll({
+	// 	cursorwidth: "10px",
+	// 	background: "#0d1015",
+	// 	cursorborder: "0",
+	// 	cursorborderradius: "0",
+	// 	autohidemode: true,
+	// 	zindex: 5
+	// });
 
 	$(".testimonials").owlCarousel({
 		margin: 30,
